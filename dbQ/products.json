@@ -1,0 +1,82 @@
+ [
+    {
+        "product": "jeans",
+        "price": 1200,
+        "path": "images/jeans.jpg",
+        "desc": "tenim jeans pant for men , ladies , kids -rigid /lycra /non lycra - fits :staight, narrow, low waist , skinnny, banana fit - basic wash , vintage washes , indigo blue jeans , etc",
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "jack",
+        "price": 1300,
+        "path": "images/jacket.jpeg",
+        "desc": "RODUCT DETAILS Black solid tailored jacket, has a mock collar, long sleeves, 2 pockets, hem with toggle Size & Fit The model (height 6') is wearing a size  Material & Care Cotton Machine-wasl la;mldjoie ;lkoie macm;;jdk ;a eiuk;kjadn cueilwewio diweui ",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "shoe",
+        "price": 700,
+        "path": "images/shoe.jpeg",
+        "desc": "this is shoe",        
+        "isAddToCart": true,
+        "qty": 1
+    },
+    {
+        "product": "mobile",
+        "price": 15000,
+        "path": "images/mobile.jpeg",
+        "desc": "this is mobile",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "macbook",
+        "price": 100000,
+        "path": "images/laptop.png",
+        "desc": "this is mackbook",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "keyboard",
+        "price": 300,
+        "path": "images/hp keyboard.png",
+        "desc": "this is keyboard",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "mouse",
+        "price": 1000,
+        "path": "images/mouse.jpg",
+        "desc": "this is  mouse",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "earphone",
+        "price": 500,
+        "path": "images/mi-earphones.jpg",
+        "desc": "this is  3ea",        
+        "isAddToCart": true,
+        "qty": 1
+    },
+    {
+        "product": "headphone",
+        "price": 1000,
+        "path": "images/download.jpg",
+        "desc": "this is  3ea",        
+        "isAddToCart": false,
+        "qty": 1
+    },
+    {
+        "product": "bluetooth ear",
+        "price": 1000,
+        "path": "images/a6s-wireless-earphones.jpg",
+        "desc": "this is  3ea",        
+        "isAddToCart": false,
+        "qty": 1
+    }
+]
